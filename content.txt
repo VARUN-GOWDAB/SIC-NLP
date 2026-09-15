@@ -1,0 +1,6 @@
+Unit 1: Text Mining
+Unit 2: Text Pre Processing
+Unit 3: Language Model
+Unit 4: NLP with Keras
+
+ 
