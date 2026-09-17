@@ -1,0 +1,21 @@
+id,review,sentiment
+1,"I absolutely loved this movie, the story was beautiful and engaging",Positive
+2,"This film was amazing and the acting was excellent",Positive
+3,"I really enjoyed the movie, every scene was interesting",Positive
+4,"The story was wonderful and the characters were memorable",Positive
+5,"This was a fantastic film with great acting and direction",Positive
+6,"I loved the emotional story and the brilliant performances",Positive
+7,"The movie was entertaining, exciting and very well made",Positive
+8,"An excellent film with a powerful story and talented actors",Positive
+9,"I enjoyed every minute of this wonderful movie",Positive
+10,"The film was impressive, enjoyable and beautifully directed",Positive
+11,"I hated this movie, the story was boring and disappointing",Negative
+12,"This film was terrible and the acting was very poor",Negative
+13,"I did not enjoy the movie, the scenes were boring",Negative
+14,"The story was awful and the characters were completely forgettable",Negative
+15,"This was a horrible film with weak acting and poor direction",Negative
+16,"I disliked the emotional story and the disappointing performances",Negative
+17,"The movie was boring, confusing and badly made",Negative
+18,"A terrible film with a weak story and unconvincing actors",Negative
+19,"I regretted watching this awful and disappointing movie",Negative
+20,"The film was boring, frustrating and poorly directed",Negative
