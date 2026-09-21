@@ -2,3 +2,10 @@ Perceptron is the simplest form of Neural Networks
 
 Weighted sum is calculated such that every input contributes according to its value and it's Weighted
 An NLP in neural network made by connectingMultiple Perceptron units in layer 
+
+A single perceptron can only create simple or linear boundaries, & and or are essentially 1D boundaries but for XOR one perceptron cannot produce output.
+So we add another layer containing multiple perceptron.
+
+Each hidden neuron performs a simple desicion and the output neuron combines those decisions to produce the final answer
+
+If x1 and x2 are input neurons, the two hidden layer neurons calculate their own weighted combination of inputs
