@@ -8,4 +8,4 @@ So we add another layer containing multiple perceptron.
 
 Each hidden neuron performs a simple desicion and the output neuron combines those decisions to produce the final answer
 
-If x1 and x2 are input neurons, the two hidden layer neurons calculate their own weighted combination of inputs
+If x1 and x2 are input neurons, the two hidden layer neurons calculate their own weighted combination of inputs. The output neuron takes the hidden layer outputs and applies another activation function
