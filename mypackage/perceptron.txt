@@ -1,2 +1,4 @@
-Perceptron 
+Perceptron is the simplest form of Neural Networks
+
 Weighted sum is calculated such that every input contributes according to its value and it's Weighted
+An NLP in neural network made by connectingMultiple Perceptron units in layer 
