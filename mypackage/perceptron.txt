@@ -1,0 +1,2 @@
+Perceptron 
+Weighted sum is calculated such that every input contributes according to its value and it's Weighted
