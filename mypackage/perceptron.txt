@@ -1,7 +1,7 @@
 Perceptron is the simplest form of Neural Networks
 
 Weighted sum is calculated such that every input contributes according to its value and it's Weighted
-An NLP in neural network made by connectingMultiple Perceptron units in layer 
+An MLP(Multilayer Perceptron) in neural network made by connectingMultiple Perceptron units in layer 
 
 A single perceptron can only create simple or linear boundaries, & and or are essentially 1D boundaries but for XOR one perceptron cannot produce output.
 So we add another layer containing multiple perceptron.
